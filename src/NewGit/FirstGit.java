@@ -3,7 +3,7 @@ package NewGit;
 public class FirstGit {
 public static void main(String srgs[]) {
 	
-
-	System.out.println("Hi");
+//ODITI 22CSU125
+	System.out.println("Pushing into GIT");
 }
 }
